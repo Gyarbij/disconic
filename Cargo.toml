@@ -57,7 +57,7 @@ version = "0.5"
 features = ["aac", "mp3"]
 
 [dependencies.tokio]
-version = "1.29"
+version = "1.32"
 features = ["full", "rt-multi-thread", "signal"]
 
 [dependencies.anyhow]
